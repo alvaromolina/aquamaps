@@ -1,0 +1,105 @@
+2012-11-17 22:46:58 Error: [MissingLayoutException] Layout file "/Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/View/Layouts/map.ctp" is missing.
+#0 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/View/View.php(514): View->_getLayoutFileName('map')
+#1 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/View/View.php(484): View->renderLayout('', 'map')
+#2 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Controller/Controller.php(956): View->render('home', NULL)
+#3 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/Controller/PagesController.php(81): Controller->render('home')
+#4 [internal function]: PagesController->display('home')
+#5 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#7 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2012-11-17 22:47:53 Error: [MissingLayoutException] Layout file "/Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/View/Layouts/map.ctp" is missing.
+#0 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/View/View.php(514): View->_getLayoutFileName('map')
+#1 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/View/View.php(484): View->renderLayout('', 'map')
+#2 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Controller/Controller.php(956): View->render('home', NULL)
+#3 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/Controller/PagesController.php(81): Controller->render('home')
+#4 [internal function]: PagesController->display('home')
+#5 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#7 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2012-11-17 22:48:39 Error: [MissingLayoutException] Layout file "/Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/View/Layouts/map.ctp" is missing.
+#0 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/View/View.php(514): View->_getLayoutFileName('map')
+#1 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/View/View.php(484): View->renderLayout('', 'map')
+#2 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Controller/Controller.php(956): View->render('home', NULL)
+#3 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/Controller/PagesController.php(81): Controller->render('home')
+#4 [internal function]: PagesController->display('home')
+#5 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#7 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2012-11-17 23:22:10 Error: [MissingActionException] Action PagesController::home() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-17 23:22:14 Error: [MissingActionException] Action PagesController::home() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-17 23:22:25 Error: [MissingActionException] Action PagesController::home() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-17 23:23:01 Error: [MissingActionException] Action PagesController::home() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-17 23:23:03 Error: [MissingActionException] Action PagesController::home() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-17 23:23:48 Error: Fatal Error (4): syntax error, unexpected '{', expecting '(' in [/Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/Controller/PagesController.php, line 79]
+2012-11-17 23:23:48 Error: [FatalErrorException] syntax error, unexpected '{', expecting '('
+#0 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 79)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 79, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 79, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-11-17 23:23:55 Error: Fatal Error (4): syntax error, unexpected '{', expecting '(' in [/Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/Controller/PagesController.php, line 79]
+2012-11-17 23:23:55 Error: [FatalErrorException] syntax error, unexpected '{', expecting '('
+#0 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 79)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 79, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 79, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-11-17 23:23:58 Error: Fatal Error (4): syntax error, unexpected '{', expecting '(' in [/Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/Controller/PagesController.php, line 79]
+2012-11-17 23:23:58 Error: [FatalErrorException] syntax error, unexpected '{', expecting '('
+#0 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 79)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 79, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 79, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-11-17 23:24:14 Error: [MissingActionException] Action PagesController::home() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-17 23:24:15 Error: [MissingActionException] Action PagesController::home() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-17 23:25:13 Error: [MissingActionException] Action PagesController::home() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-17 23:25:16 Error: [MissingActionException] Action PagesController::home() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-21 16:02:33 Error: [MissingControllerException] Controller class ...Controller could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/aquamaps/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
